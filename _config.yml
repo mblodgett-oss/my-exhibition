@@ -22,7 +22,7 @@ story_interface:
   show_on_homepage: true
   show_story_steps: true
   show_object_credits: true
-  include_demo_content: true # Fetch demo stories from content.telar.org. Switch this off to hide demo stories and their content.
+  include_demo_content: false # Fetch demo stories from content.telar.org. Switch this off to hide demo stories and their content.
 
 # Collection Interface Settings
 collection_interface:
