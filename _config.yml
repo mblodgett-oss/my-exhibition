@@ -2,12 +2,12 @@
 # https://telar.org
 
 # Site Settings
-title: "The Influence of the American Identity on Japanese-Americans"
-description: "How  the pressure to conform to American identity during World War II influenced Japanese Americans to suppress and distance themselves from their Japanese identity"
+title: "Loyalty Behind Barbed Wire"
+description: "Exploring the contradiction faced by Japanese Americans who were expected to prove their loyalty to the United States while being incarcerated during Japanese Internment"
 url: "https://mblodgett-oss.github.io"
 baseurl: "/my-exhibition"
 author: "Makenzie Blodgett"
-telar_theme: "paisajes" # Options: paisajes, neogranadina, santa-barbara, austin, trama, or custom
+telar_theme: "trama" # Options: paisajes, neogranadina, santa-barbara, austin, trama, or custom
 logo: ""
 telar_language: "en"
 
